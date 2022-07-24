@@ -3,7 +3,7 @@ const sidebarData = [
     {
         title: 'Vestibulum id turpis porttitor sapien facilisis scelerisque',
         link: 'post-details.html',
-        createDate: 'May 31, 2022'
+        createDate: 'May 28, 2022'
     },
     {
         title: 'Suspendisse et metus nec libero ultrices varius eget in risus',
@@ -13,12 +13,12 @@ const sidebarData = [
     {
         title: 'Swag hella echo park leggings, shaman cornhole ethical coloring',
         link: 'post-details.html',
-        createDate: 'May 14, 2022'
+        createDate: 'May 28, 2022'
     },
     {
         title: 'Swag hella echo park leggings, shaman cornhole ethical coloring',
         link: 'post-details.html',
-        createDate: 'May 14, 2022'
+        createDate: 'May 28, 2022'
     },
 ];
 
