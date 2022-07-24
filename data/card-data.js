@@ -4,7 +4,7 @@ const cardData = [
         img: 'assets/images/blog-thumb-01.jpg',
         link: 'post-details.html',
         title: 'Donec tincidunt leo',
-        author: 'Andriy-Fedevych',
+        author: 'Andriy Fedevych',
         desc: 'Nullam nibh mi, tincidunt sed sapien ut, rutrum hendrerit velit. Integer auctor a mauris sit amet eleifend.',
         date: 'May 28, 2022'
     },
@@ -12,7 +12,7 @@ const cardData = [
         img: 'assets/images/blog-thumb-03.jpg',
         link: 'post-details.html',
         title: 'Donec tincidunt leo',
-        author: 'Andriy-Fedevych',
+        author: 'Andriy Fedevych',
         desc: 'Nullam nibh mi, tincidunt sed sapien ut, rutrum hendrerit velit. Integer auctor a mauris sit amet eleifend.',
         date: 'May 28, 2022'
     },
@@ -20,7 +20,7 @@ const cardData = [
         img: 'assets/images/blog-thumb-05.jpg',
         link: 'post-details.html',
         title: 'Donec tincidunt leo',
-        author: 'Andriy-Fedevych',
+        author: 'Andriy Fedevych',
         desc: 'Nullam nibh mi, tincidunt sed sapien ut, rutrum hendrerit velit. Integer auctor a mauris sit amet eleifend.',
         date: 'May 28, 2022'
     },
@@ -28,7 +28,7 @@ const cardData = [
         img: 'assets/images/blog-thumb-06.jpg',
         link: 'post-details.html',
         title: 'Donec tincidunt leo',
-        author: 'Andriy-Fedevych',
+        author: 'Andriy Fedevych',
         desc: 'Nullam nibh mi, tincidunt sed sapien ut, rutrum hendrerit velit. Integer auctor a mauris sit amet eleifend.',
         date: 'May 28, 2022'
     },
