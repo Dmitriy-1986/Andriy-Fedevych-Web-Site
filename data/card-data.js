@@ -42,17 +42,17 @@ for (let i = 0; i < cardData.length; i++) {
     card.classList.add('col-lg-6');
     card.innerHTML = `<div class="blog-post">
                         <div class="blog-thumb">
-                        <img src="${cardData[i].img}" alt="">
+                           <img src="${cardData[i].img}" alt="">
                         </div>
                         <div class="down-content">  
-                        <a href="${cardData[i].link}">
-                            <h4>Donec tincidunt leo</h4>
-                        </a>
-                        <ul class="post-info">
-                            <li><a href="#">${cardData[i].author}</a></li>
-                            <li><a href="#">${cardData[i].date}</a></li>
-                        </ul>
-                        <p>${cardData[i].desc}</p>   
+                           <a href="${cardData[i].link}">
+                              <h4>Donec tincidunt leo</h4>
+                           </a>
+                           <ul class="post-info">
+                              <li><a href="#">${cardData[i].author}</a></li>
+                              <li><a href="#">${cardData[i].date}</a></li>
+                           </ul>
+                           <p>${cardData[i].desc}</p>   
                         </div>
                     </div>`;
     cardBlogPosts.append(card);
