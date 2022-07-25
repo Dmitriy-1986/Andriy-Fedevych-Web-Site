@@ -54,7 +54,7 @@ for (let i = 0; i < cardData.length; i++) {
                            </ul>
                            <p>${cardData[i].desc}</p>   
                         </div>
-                    </div>`;
+                     </div>`;
     cardBlogPosts.append(card);
 }
 
